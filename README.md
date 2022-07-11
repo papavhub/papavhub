@@ -13,3 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papavhub&count_private=true&show_icons=true&theme=radical)](https://github.com/papavhub/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=papavhub&repo=CACA-2022CD)](https://github.com/papavhub/CACA-2022CD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=papavhub&repo=Healthcare-with-MSA-Docker
+)](https://github.com/papavhub/Healthcare-with-MSA-Docker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=papavhub&repo=CACA
+)](https://github.com/papavhub/CACA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=papavhub&repo=SmileSpeedGate
+)](https://github.com/papavhub/SmileSpeedGate)
