@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 )](https://github.com/papavhub/CACA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=papavhub&repo=SmileSpeedGate
 )](https://github.com/papavhub/SmileSpeedGate)
+
+# Badge
+[<img src="https://user-images.githubusercontent.com/67986703/183000509-139ca6dc-17d4-4280-98d7-848e73507bf4.png" alt="drawing" width="200">](https://www.credly.com/badges/730ce3ba-b94a-4af2-8877-473b797fda7f/public_url)
