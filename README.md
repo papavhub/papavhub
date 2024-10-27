@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
--->
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=papavhub&repo=CACA-2022CD)](https://github.com/papavhub/CACA-2022CD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=papavhub&repo=Healthcare-with-MSA-Docker
 )](https://github.com/papavhub/Healthcare-with-MSA-Docker)
@@ -30,6 +28,8 @@ Here are some ideas to get you started:
 )](https://github.com/papavhub/CACA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=papavhub&repo=SmileSpeedGate
 )](https://github.com/papavhub/SmileSpeedGate)
+
+-->
 
 # Badge
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/67986703/260440152-4e9e58c7-db32-4fcd-9f26-223fe954aaf5.png" alt="drawing" width="200" target="_blank">](https://www.credly.com/badges/c2888b64-b6e1-4c05-a4e3-f159687a30bb/public_url)
